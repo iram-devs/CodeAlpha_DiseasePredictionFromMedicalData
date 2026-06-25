@@ -1,0 +1,2 @@
+# CodeAlpha_DiseasePredictionFromMedicalData
+Disease Prediction Model 
