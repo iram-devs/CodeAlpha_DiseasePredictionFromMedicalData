@@ -8,7 +8,7 @@ Disease Prediction from Synthetic Medical Data
 
 Predict whether a patient is likely to have a disease using medical and lifestyle factors.
 
-#Features Used
+# Features Used
 Age
 Gender
 Systolic Blood Pressure
